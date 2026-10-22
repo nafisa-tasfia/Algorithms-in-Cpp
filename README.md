@@ -23,5 +23,4 @@ Each `.cpp` file contains an individual algorithm implementation.
 3. Run the program and provide input as required.
 
 
-*Maintained by Nafisa Tasfia Tahsin*
-*BSc in Computer Science and Engineering (CSE)*
+
