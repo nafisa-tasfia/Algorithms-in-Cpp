@@ -9,7 +9,6 @@ This repository contains C++ implementations of algorithms practiced as part of 
 3. Develop programming and problem-solving skills through coursework.
 
 ## Language
-
  C++
 
 ## Repository Structure
